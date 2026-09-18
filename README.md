@@ -24,6 +24,25 @@ I also enjoy learning different areas of software development through C++, Java,
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=plotly&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
+### Tools I Work With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,php,html,css,git,github&theme=dark&perline=8" alt="Python, C++, Java, PHP, HTML, CSS, Git, and GitHub icons" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yezdenz&theme=github_dark" alt="Yezdenz GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yezdenz&theme=github_dark" alt="Yezdenz most-used GitHub languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yezdenz&theme=github-dark-blue&hide_border=true" alt="Yezdenz GitHub contribution streak" />
+</p>
+
 ---
 
 ## 🌱 Currently Learning
