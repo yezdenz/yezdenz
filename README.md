@@ -35,7 +35,6 @@ I also enjoy learning different areas of software development through C++, Java,
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yezdenz&theme=github_dark" alt="Yezdenz GitHub statistics" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yezdenz&theme=github_dark" alt="Yezdenz most-used GitHub languages" />
 </p>
 
